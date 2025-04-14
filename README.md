@@ -44,14 +44,6 @@ The goal of this project is to forecast sales for multiple stores based on histo
 - Achieved competitive RMSLE score
 - Visualized predictions vs. actual sales
 
-## 📸 Visualizations
-
-| Sales Trend | Feature Correlation |
-|-------------|---------------------|
-| ![Sales Trend](path/to/your/sales_trend.png) | ![Correlation Heatmap](path/to/your/heatmap.png) |
-
-> *(Update image paths after uploading images to your GitHub repo.)*
-
 ## 📈 Key Insights
 
 - Significant seasonality and weekly patterns in store sales
